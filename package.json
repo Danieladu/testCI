@@ -1,0 +1,22 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danieladu/testCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danieladu/testCI/issues"
+  },
+  "homepage": "https://github.com/Danieladu/testCI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
