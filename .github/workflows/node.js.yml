@@ -24,3 +24,5 @@ jobs:
         npm start &
         sleep 20
         npm test
+    - name: start and test
+      run: npm run copy
