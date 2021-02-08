@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "copy":"cp -rf a.lg f/"
   },
   "repository": {
     "type": "git",
