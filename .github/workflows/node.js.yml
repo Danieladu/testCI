@@ -21,4 +21,6 @@ jobs:
     - name: start and test
       run: |
         npm install
-        npm start & npm test
+        npm start &
+        sleep 100
+        npm test
